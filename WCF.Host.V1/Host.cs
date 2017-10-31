@@ -24,6 +24,7 @@ namespace WCF.Host
             Console.WriteLine("Le service Majuscule est prêt.");
             Console.Read();
             host1.Close(); 
+            dfjghgihgi
 
         }
     }
